@@ -1,0 +1,14 @@
+Thank you for downloading GlassFish Server Open Source Edter of unzipping the GlassFish archive in the desired directory. Since you are reading this, you have probably already unzipped GlassFish. If not, just type the following command in the directory where you want GlassFish to be installed : jar xvf glassfish-4.1.zip
+
+
+The default domain called 'domain1' is installed and preconfigured.
+
+
+2. Starting GlassFish
+=====================
+
+bffjegoegçwWETEY´LERGREHTJTYJHGDHTYURTRST
+YTJHJGLHÇJGJFHFGccvmdgh;fjf
+
+
+fdgtrutiyoyuhffdfhfgjhkhjjfggdgfhfgh
